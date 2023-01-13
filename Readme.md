@@ -21,8 +21,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=supersaint7780&theme=algolia" alt="7oSkaaa" /></p>
 
 <br>
-<!--
-**supersaint7780/supersaint7780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
